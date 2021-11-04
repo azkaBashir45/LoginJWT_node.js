@@ -9,4 +9,4 @@ router.post("/emailSend",registerController.emailSend);
 router.post("/changePassword",registerController.changePassword);
 router.get("/logOut",registerController.logOut);
 
-module.exports=router;
+module.exports=routers;
